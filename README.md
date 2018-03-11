@@ -1,1 +1,2 @@
-# ECS160Homework4
+Sarah Quick
+Kyle Catapusan
